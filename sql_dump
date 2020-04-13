@@ -1,0 +1,7 @@
+INSERT INTO pizza (id, title, description, price, sku, is_active, updated_at) VALUES (1, 'Europe', 'Default', 13, '11111', 1, null);
+INSERT INTO pizza (id, title, description, price, sku, is_active, updated_at) VALUES (2, 'Italy', 'Rest in Pepperoni', 12, '22222', 1, null);
+INSERT INTO pizza (id, title, description, price, sku, is_active, updated_at) VALUES (3, 'Chicken and Mushroom', 'DUDUDU', 17, '33333', 1, null);
+INSERT INTO pizza (id, title, description, price, sku, is_active, updated_at) VALUES (4, 'Meat Lovers', 'Huge load of meat', 19, '44444', 1, null);
+INSERT INTO pizza (id, title, description, price, sku, is_active, updated_at) VALUES (5, 'BBQ', 'Ranch flavour', 21, '55555', 1, null);
+INSERT INTO pizza (id, title, description, price, sku, is_active, updated_at) VALUES (7, 'Supreme', 'Supreme master first class', 399, '77777', 1, null);
+INSERT INTO pizza (id, title, description, price, sku, is_active, updated_at) VALUES (8, 'Hawaii', 'Pizza with pineapples', 15, '88888', 1, null);
