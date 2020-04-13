@@ -15,7 +15,7 @@ models.Base.metadata.create_all(bind=engine)
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",
+    "http://35.242.229.43:3000",
 ]
 
 app.add_middleware(
